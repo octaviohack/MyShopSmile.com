@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <gradient
+        android:angle="360"
+        android:endColor="#3A0343"
+        android:startColor="#1293A3"
+        android:type="linear"
+        />
+    <corners android:bottomLeftRadius="@dimen/button_background_radius"
+        android:bottomRightRadius="@dimen/button_background_radius"
+        android:topLeftRadius="@dimen/button_background_radius"
+        android:topRightRadius="@dimen/button_background_radius"
+
+        />
+
+
+</shape>

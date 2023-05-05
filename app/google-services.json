@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "35095057680",
+    "project_id": "myshopbox-e87b0",
+    "storage_bucket": "myshopbox-e87b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35095057680:android:dc81bd2be898478aff0195",
+        "android_client_info": {
+          "package_name": "com.example.myshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35095057680-s61skjrmvo936h9qlm97mfu60h58quge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEtligVDFCmGhzd47KEte_UE8Z3YUbIQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35095057680-s61skjrmvo936h9qlm97mfu60h58quge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

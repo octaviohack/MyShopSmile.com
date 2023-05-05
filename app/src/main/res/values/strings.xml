@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyShop.com</string>
+
+    <string name="err_msg_enter_fist_name">Please enter first name.</string>
+    <string name="err_msg_enter_last_name">Please enter last name.</string>
+    <string name="err_msg_enter_email">Please enter email.</string>
+    <string name="err_msg_enter_password">Please enter password.</string>
+    <string name="err_msg_enter_confirm_password">Please enter confirm password.</string>
+    <string name="err_msg_password_not_match">Password and confirm password not match.</string>
+    <string name="err_msg_enter_valid_email">Please enter valid email.</string>
+    <string name="registery_successfull">Your details are Successfully .</string>
+    <string name="title_activity_dashboar">DashboarActivity</string>
+
+    <string name="title_home">Categories</string>
+    <string name="title_products">Products</string>
+    <string name="title_orders">Orders</string>
+    <string name="please_click_back_again_to_exit">Please click back again to exit.</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
